@@ -54,6 +54,20 @@ If something proves useful over time, I continue refining it. Some projects rema
 
 ## Public Tools
 
+### Ritmo
+
+Browser-native audio capture and analysis toolkit for producers, editors, DJs, and sampling workflows.
+
+- Record audio from virtually any website directly in-browser
+- Deterministic BPM/key detection with relative scale + half/double tempo references
+- Searchable built-in recording library with automatic metadata organization
+- Real-time verification tools including Virtual Piano, BPM Tapper, and Metronome
+- Fully local processing with no uploads or cloud analysis
+- Available as a chromium-based browser extension (Chrome, Edge, Brave, Vibaldi, Opera, etc)
+
+[Ritmo Website](https://ritmo.vrsm.cc)
+[Chrome Web Store](https://chromewebstore.google.com/detail/ritmo-tab-audio-capture-b/bppompklfciednccapjmgijdefmdfhjo)
+
 ### Namlet
 A browser-based username generation utility.
 
@@ -64,15 +78,6 @@ A browser-based username generation utility.
 
 [Chrome Web Store](https://chromewebstore.google.com/detail/namlet-smart-username-gen/jhpcamfbhbecjnchgebflapcindllibl)
 
-### Ritmo
-A browser-based rhythm and timing utility.
-
-- BPM detection, tap tempo, and metronome functions
-- Designed for fast reference and low cognitive load
-- Local-first audio processing
-- Available as a Browser extension
-
-[Chrome Web Store](https://chromewebstore.google.com/detail/ritmo-smart-audio-toolkit/bppompklfciednccapjmgijdefmdfhjo)
 
 ## Public Sites
 
