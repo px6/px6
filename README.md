@@ -65,8 +65,7 @@ Browser-native audio capture and analysis toolkit for producers, editors, DJs, a
 - Fully local processing with no uploads or cloud analysis
 - Available as a chromium-based browser extension (Chrome, Edge, Brave, Vibaldi, Opera, etc)
 
-[Ritmo Website](https://ritmo.vrsm.cc)
-[Chrome Web Store](https://chromewebstore.google.com/detail/ritmo-tab-audio-capture-b/bppompklfciednccapjmgijdefmdfhjo)
+[Ritmo Website](https://ritmo.vrsm.cc) | [Chrome Web Store](https://chromewebstore.google.com/detail/ritmo-tab-audio-capture-b/bppompklfciednccapjmgijdefmdfhjo)
 
 ### Namlet
 A browser-based username generation utility.
